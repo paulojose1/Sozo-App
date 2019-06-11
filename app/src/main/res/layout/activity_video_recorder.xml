@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.VideoRecorderActivity">
+
+    <TextureView
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:id="@+id/textureView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+    <!--<ImageButton-->
+        <!--android:layout_width="50dp"-->
+        <!--android:layout_height="50dp"-->
+        <!--android:id="@+id/btnCaptureVideo1"-->
+        <!--android:src="@mipmap/record"-->
+        <!--android:layout_marginBottom="36dp"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_alignParentEnd="true"-->
+        <!--android:layout_marginEnd="49dp"-->
+        <!--android:contentDescription="@string/video_button" />-->
+
+    </RelativeLayout>
